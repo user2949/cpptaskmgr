@@ -1,0 +1,1 @@
+g++ -static -static-libgcc -static-libstdc++ cpptaskmanager.cpp
